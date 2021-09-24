@@ -33,4 +33,4 @@ THEN the password is either displayed in an alert or written to the page
 ![pwgenerator](https://user-images.githubusercontent.com/89039793/134611933-34ff1044-0055-408b-921e-480fe7032738.png)
 
 ## Deployed URL
-
+https://chloeharris1.github.io/passwordgenerator/
