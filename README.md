@@ -12,6 +12,10 @@ length and character types.
 
 ![screenshot](./pwgenerator.png)
 
+## Link 
+
+https://chloeharris1.github.io/passwordgenerator/
+
 ## Questions 
 [Email Me](Chloe.a.harris17@gmail.com) if you have any questions.
 
