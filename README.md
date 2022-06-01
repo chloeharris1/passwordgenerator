@@ -1,5 +1,7 @@
 # Password Generator
 
+![license badge](https://img.shields.io/badge/license-MIT-blue)
+
 ## Description
 
 A random password generator created with HTML, CSS and JavaScript. 
@@ -15,6 +17,9 @@ length and character types.
 ## Link 
 
 https://chloeharris1.github.io/passwordgenerator/
+
+## License
+Licensed under the MIT license.
 
 ## Questions 
 [Email Me](Chloe.a.harris17@gmail.com) if you have any questions.
