@@ -4,7 +4,7 @@
 
 ## Description
 
-A random password generator created with HTML, CSS and JavaScript. 
+A random password generator built with HTML, CSS and JavaScript. 
 
 Users can generate strong passwords that provide greater security by 
 answering a series of password criteria prompts including desired 
@@ -16,7 +16,7 @@ length and character types.
 
 ## Link 
 
-https://chloeharris1.github.io/passwordgenerator/
+[Password Generator](https://chloeharris1.github.io/passwordgenerator/)
 
 ## License
 Licensed under the MIT license.
